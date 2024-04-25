@@ -11,6 +11,9 @@
 - 运行TidyGWAS.R
 - 在OUT结果目录中查看结果
 
-## 联系作者
+## 下载工具
 
-Jiwen Zhao （https://www/Filll.cn）
+```
+git clone https://github.com/BioJewel/TidyGWAS.git
+```
+
